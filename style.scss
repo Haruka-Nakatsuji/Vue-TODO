@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Roboto", "Hiragino Sans", "Meiryo", "Hiragino Kaku Gothic ProN", sans-serif;
+}
+
+@layer components {
+  .shippori {
+    font-family: "shippori mincho", serif;
+  }
+}
